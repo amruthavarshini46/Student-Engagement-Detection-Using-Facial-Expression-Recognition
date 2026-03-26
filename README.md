@@ -237,14 +237,6 @@ This improved accuracy significantly.
 
 ## Author
 
-**[Your Name]**
+**[LOPINTI HARI]**
 AI/ML Enthusiast | Data Science
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
 

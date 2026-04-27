@@ -237,6 +237,6 @@ This improved accuracy significantly.
 
 ## Author
 
-**[LOPINTI HARI]**
-AI/ML Enthusiast | Data Science
+**[THANNEERU AMRUTHA VARSHINI]**
+AI/ML Enthusiast 
 
